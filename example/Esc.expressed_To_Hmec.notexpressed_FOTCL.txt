@@ -1,0 +1,18 @@
+Feature	InputTotal	Overlaps with H1-HESC	Overlaps with HMEC	H1-HESC Total	HMEC Total	H1-HESC dataset	HMEC dataset	H1-HESC filename	HMEC filename
+CTCF	241	138	54	104538	54380	H1-HESC|CTCF|wgEncodeEH000085|Broad|None	HMEC|CTCF|wgEncodeEH000075|Broad|None	wgEncodeBroadHistoneH1hescCtcfStdPk.broadPeak.gz	wgEncodeBroadHistoneHmecCtcfStdPk.broadPeak.gz
+CTCF	241	138	61	104538	55897	H1-HESC|CTCF|wgEncodeEH000085|Broad|None	HMEC|CTCF|wgEncodeEH000419|UW|None	wgEncodeBroadHistoneH1hescCtcfStdPk.broadPeak.gz	wgEncodeAwgTfbsUwHmecCtcfUniPk
+CTCF	241	84	54	43247	54380	H1-HESC|CTCF|wgEncodeEH000560|UT-A|None	HMEC|CTCF|wgEncodeEH000075|Broad|None	wgEncodeAwgTfbsUtaH1hescCtcfUniPk	wgEncodeBroadHistoneHmecCtcfStdPk.broadPeak.gz
+CTCF	241	84	61	43247	55897	H1-HESC|CTCF|wgEncodeEH000560|UT-A|None	HMEC|CTCF|wgEncodeEH000419|UW|None	wgEncodeAwgTfbsUtaH1hescCtcfUniPk	wgEncodeAwgTfbsUwHmecCtcfUniPk
+DNase	241	239	236	258188	339865	H1-HESC|DNase|wgEncodeEH000496|AWG|None	HMEC|DNase||AWG|None	wgEncodeAwgDnaseUwdukeH1hescUniPk	wgEncodeAwgDnaseUwdukeHmecUniPk
+EZH2_(39875)	241	240	240	143607	106439	H1-HESC|EZH2_(39875)|wgEncodeEH003082|Broad|None	HMEC|EZH2_(39875)|wgEncodeEH002412|Broad|None	wgEncodeBroadHistoneH1hescEzh239875Pk.broadPeak.gz	wgEncodeBroadHistoneHmecEzh239875Pk.broadPeak.gz
+H2A.Z	241	225	234	220029	132090	H1-HESC|H2A.Z|wgEncodeEH002082|Broad|None	HMEC|H2A.Z|wgEncodeEH002413|Broad|None	wgEncodeBroadHistoneH1hescH2azStdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH2azPk.broadPeak.gz
+H3K27ac	241	120	10	55728	67989	H1-HESC|H3K27ac|wgEncodeEH000997|Broad|None	HMEC|H3K27ac|wgEncodeEH000076|Broad|None	wgEncodeBroadHistoneH1hescH3k27acStdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k27acStdPk.broadPeak.gz
+H3K27me3	241	239	240	25909	40126	H1-HESC|H3K27me3|wgEncodeEH000074|Broad|None	HMEC|H3K27me3|wgEncodeEH000077|Broad|None	wgEncodeBroadHistoneH1hescH3k27me3StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k27me3StdPk.broadPeak.gz
+H3K36me3	241	48	13	35877	33342	H1-HESC|H3K36me3|wgEncodeEH000107|Broad|None	HMEC|H3K36me3|wgEncodeEH000078|Broad|None	wgEncodeBroadHistoneH1hescH3k36me3StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k36me3StdPk.broadPeak.gz
+H3K4me1	241	238	237	139971	153972	H1-HESC|H3K4me1|wgEncodeEH000106|Broad|None	HMEC|H3K4me1|wgEncodeEH000089|Broad|None	wgEncodeBroadHistoneH1hescH3k4me1StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k4me1StdPk.broadPeak.gz
+H3K4me2	241	241	238	73086	98744	H1-HESC|H3K4me2|wgEncodeEH000108|Broad|None	HMEC|H3K4me2|wgEncodeEH000090|Broad|None	wgEncodeBroadHistoneH1hescH3k4me2StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k4me2StdPk.broadPeak.gz
+H3K4me3	241	241	232	33270	33116	H1-HESC|H3K4me3|wgEncodeEH000086|Broad|None	HMEC|H3K4me3|wgEncodeEH000091|Broad|None	wgEncodeBroadHistoneH1hescH3k4me3StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k4me3StdPk.broadPeak.gz
+H3K79me2	241	86	8	33205	35154	H1-HESC|H3K79me2|wgEncodeEH002083|Broad|None	HMEC|H3K79me2|wgEncodeEH002435|Broad|None	wgEncodeBroadHistoneH1hescH3k79me2StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k79me2Pk.broadPeak.gz
+H3K9ac	241	218	23	58181	52305	H1-HESC|H3K9ac|wgEncodeEH000109|Broad|None	HMEC|H3K9ac|wgEncodeEH000079|Broad|None	wgEncodeBroadHistoneH1hescH3k9acStdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k9acStdPk.broadPeak.gz
+H3K9me3	241	36	26	86122	49328	H1-HESC|H3K9me3|wgEncodeEH002084|Broad|None	HMEC|H3K9me3|wgEncodeEH002414|Broad|None	wgEncodeBroadHistoneH1hescH3k09me3StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH3k09me3Pk.broadPeak.gz
+H4K20me1	241	176	176	41140	23703	H1-HESC|H4K20me1|wgEncodeEH000087|Broad|None	HMEC|H4K20me1|wgEncodeEH000092|Broad|None	wgEncodeBroadHistoneH1hescH4k20me1StdPk.broadPeak.gz	wgEncodeBroadHistoneHmecH4k20me1StdPk.broadPeak.gz
